@@ -27,6 +27,40 @@ Chapter 9: The village elder walks in. “Greetings stranger”
 	Uhm hi? 10>
 	Where am I? 10>
 
-Chapter 10: Village Elder: “You are in the beautiful land of Eldoria, a magical place. My name is luang fou. And you have been chosen by our magical trinket, our most prized possession, The Amulet of Power.”
+Chapter 10: Village Elder: “You are in the beautiful land of Eldoria, a magical place. My name is Luang Fou. And you have been chosen by our magical trinket, our most prized possession, The Amulet of Power.”
 
-	
+	What? 11>
+	Punch the Village Elder. ending 1>
+
+Chapter 11: Village Elder: “You are the chosen one! But you will have to learn how to control the powers of the amulet. If you dont do this the amulet will consume you and torture you for eternity.”
+
+	Consume Me?!? 12>
+	Torture me!?! 12>
+
+Chapter 12: Village Elder: “Yes but you do not need to worry. We have trained for this moment for more than a 1000 years. You will receive special training from yours truly.”
+
+	You are gonna train me? 13>
+	Okay let's begin! 14>
+
+Chapter 13: Village Elder: “Yes I will, I have been trained to guide the chosen one. Do you accept it?”
+
+	Yes. 14>
+	No. ending 2>
+
+Chapter 14: “Alright let's begin” 15>
+
+Chapter 15: You begin training with master Luang Fou. Suddenly a fight breaks out. You hear goblins growling from the bushes.
+
+	Go to the goblins 17>
+	Alert the Village Elder 16>
+
+Chapter 16: Village Elder: “Goblins, we haven't seen them for years. We thought we never had to deal with them again. But this is a good opportunity to test your training.” 17>
+
+Chapter 17: You fight the goblins for a while, but they keep increasing their numbers. 
+
+	Keep fighting ending 3>
+	Run away for help 18>
+
+Chapter 18: You run back to the village. You tell the Village elder that there are too many of them. You tell them that they need to run. 19>
+
+Chapter 19: The goblins overwhelm everyone there are thousands of goblins everywhere. They have surrounded the village. They have set the village on fire. There is nowhere to run. You try to stop the goblins, but it's no use. Nobody survived. Everybody dies. 
