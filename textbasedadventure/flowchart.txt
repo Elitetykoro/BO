@@ -1,0 +1,32 @@
+Title: "The Chronicles of Eldoria"
+Chapter 1: The Prologue In the kingdom of Eldoria, a land of magic and mystery, you, a humble peasant, are thrust into a grand adventure when you discover an ancient amulet in a dusty old chest.
+Chapter 2: The Mysterious Amulet. As you examine the amulet, you realize it's no ordinary trinket. It holds a hidden power. You must decide how to unlock its potential:
+	Wear the amulet. 3>
+	Stand still and feel the ominous gaze of the amulet. 5>
+
+Chapter 3: The amulet has lent you its power. You feel energized, you feel strong. It feels like you can punch a cement wall with ease.
+
+	Punch the cement wall. 4>
+	Leave the wall alone. 5>
+
+Chapter 4: As you punch the cement wall you feel every bone in your body break. You pass out. 6>
+
+Chapter 5: You hear gears shifting, the walls are moving closer. You cannot escape. The walls are crushing you so much that you eventually pass out. 6>
+
+Chapter 6: You wake up in a village on a bed, With the amulet around your neck.
+
+	Try to take the amulet off. 7>
+	Rest for a while. 8>
+
+Chapter 7: You hear a weird voice saying “No don't!”. The amulet is stuck to your body. 8>
+
+Chapter 8: A person walks in. “OMG The Chosen One, he is awake!!!” 9>
+
+Chapter 9: The village elder walks in. “Greetings stranger” 
+
+	Uhm hi? 10>
+	Where am I? 10>
+
+Chapter 10: Village Elder: “You are in the beautiful land of Eldoria, a magical place. My name is luang fou. And you have been chosen by our magical trinket, our most prized possession, The Amulet of Power.”
+
+	
